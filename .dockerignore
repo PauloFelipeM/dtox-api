@@ -1,0 +1,5 @@
+.git
+/venv
+*.md
+*.yml
+!README*.md

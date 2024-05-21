@@ -1,0 +1,11 @@
+DB:
+  MYSQL:
+    HOST: 127.0.0.1
+    PORT: '3306'
+    DATABASE: dtox_api
+    USERNAME: dtox
+    PASSWORD: 'AsMAxAW9VfTcYhD7'
+SERVICES_URLS:
+  GAMERS_CLUB: https://gamersclub.com.br/api
+KEYS:
+  GAMERS_CLUB_AUTH_KEY: ZnJvbnRlbmQ6NDdhMTZHMmtHTCFmNiRMRUQlJVpDI25X
